@@ -1,0 +1,18 @@
+{
+    "package": {
+        "name": "sdl2",
+        "url": "https://github.com/libsdl-org/SDL/releases/download/",
+        "latest": "2.32.10",
+        "description": "Simple DirectMedia Layer 2",
+        "files": {
+            "general": "*.zip",
+            "linux": "*.tar.gz",
+            "macos": "*.dmg",
+            "win32-x64": "*-win32-x64.zip",
+            "win32-x86": "*-win32-x86.zip",
+            "devel-mingw-linux": "*-devel-*-mingw.tar.gz",
+            "devel-mingw-general": "*-devel-*-mingw.zip",
+            "devel-vc": "*-devel-*-VC.zip"
+        }
+    }
+}
