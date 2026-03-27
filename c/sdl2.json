@@ -2,7 +2,7 @@
     "package": {
         "name": "sdl2",
         "url": "https://github.com/libsdl-org/SDL/releases/download/",
-        "latest": "2.32.10",
+        "latest": "release-2.32.10",
         "description": "Simple DirectMedia Layer 2",
         "files": {
             "general": "*.zip",
