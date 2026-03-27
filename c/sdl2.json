@@ -6,7 +6,7 @@
         "description": "Simple DirectMedia Layer 2",
         "files": {
             "general": "*.zip",
-            "linux": "*.tar.gz",
+            "linux": "SDL2-2.32.10.tar.gz",
             "macos": "*.dmg",
             "win32-x64": "*-win32-x64.zip",
             "win32-x86": "*-win32-x86.zip",
